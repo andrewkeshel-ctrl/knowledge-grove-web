@@ -25,10 +25,10 @@ const Header = () => {
           <Link to="/" className="flex items-center space-x-2">
             <div className="flex flex-col">
               <span className="font-serif text-xl font-bold text-primary">
-                Academic Association
+                Georgian Society
               </span>
               <span className="text-xs text-muted-foreground">
-                Research & Scholarship
+                of Contemporary Psychoanalysis
               </span>
             </div>
           </Link>

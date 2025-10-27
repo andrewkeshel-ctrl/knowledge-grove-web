@@ -12,11 +12,11 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6">
-              Advancing Scholarship Through Collaboration
+              Advancing Psychoanalytic Practice Through Collaboration
             </h1>
             <p className="text-lg md:text-xl text-primary-foreground/90 mb-8 leading-relaxed">
-              Join our community of distinguished researchers and scholars dedicated to 
-              fostering intellectual dialogue and advancing knowledge across disciplines.
+              Join our community of distinguished psychoanalysts and mental health professionals dedicated to 
+              fostering clinical dialogue and advancing contemporary psychoanalysis in Georgia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" variant="secondary">
@@ -42,9 +42,9 @@ const Index = () => {
                 <div className="mx-auto mb-4 p-4 bg-primary/10 rounded-full w-fit">
                   <Calendar className="h-8 w-8 text-primary" />
                 </div>
-                <CardTitle className="font-serif text-2xl">Academic Events</CardTitle>
+                <CardTitle className="font-serif text-2xl">Clinical Events</CardTitle>
                 <CardDescription>
-                  Attend lectures, seminars, workshops, and conferences led by leading scholars
+                  Attend lectures, seminars, workshops, and conferences led by leading psychoanalysts
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -61,7 +61,7 @@ const Index = () => {
                 </div>
                 <CardTitle className="font-serif text-2xl">Publications</CardTitle>
                 <CardDescription>
-                  Access cutting-edge research articles and scholarly publications from our network
+                  Access cutting-edge psychoanalytic articles and clinical publications from our network
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -78,7 +78,7 @@ const Index = () => {
                 </div>
                 <CardTitle className="font-serif text-2xl">Our Community</CardTitle>
                 <CardDescription>
-                  Connect with distinguished analysts and researchers from institutions worldwide
+                  Connect with distinguished psychoanalysts and clinicians from across Georgia
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -103,18 +103,18 @@ const Index = () => {
                 <CardHeader>
                   <div className="flex items-start justify-between gap-4">
                     <div>
-                      <CardTitle className="font-serif text-xl">
-                        Annual Research Symposium 2025
-                      </CardTitle>
-                      <CardDescription>March 15, 2025</CardDescription>
-                    </div>
-                  </div>
-                </CardHeader>
-                <CardContent>
-                  <p className="text-foreground/80 mb-4">
-                    Registration is now open for our flagship annual event. Join us for keynote 
-                    presentations, panel discussions, and networking opportunities with leading researchers.
-                  </p>
+                  <CardTitle className="font-serif text-xl">
+                    Annual Clinical Symposium 2025
+                  </CardTitle>
+                  <CardDescription>March 15, 2025</CardDescription>
+                </div>
+              </div>
+            </CardHeader>
+            <CardContent>
+              <p className="text-foreground/80 mb-4">
+                Registration is now open for our flagship annual event. Join us for keynote 
+                presentations, panel discussions, and networking opportunities with leading psychoanalysts.
+              </p>
                   <Button asChild variant="link" className="px-0">
                     <Link to="/events">Learn More →</Link>
                   </Button>
@@ -125,18 +125,18 @@ const Index = () => {
                 <CardHeader>
                   <div className="flex items-start justify-between gap-4">
                     <div>
-                      <CardTitle className="font-serif text-xl">
-                        New Publication: Research Methods Quarterly
-                      </CardTitle>
-                      <CardDescription>February 2025</CardDescription>
-                    </div>
-                  </div>
-                </CardHeader>
-                <CardContent>
-                  <p className="text-foreground/80 mb-4">
-                    Our latest journal issue features groundbreaking research on qualitative methodologies 
-                    and innovative approaches to data analysis.
-                  </p>
+                  <CardTitle className="font-serif text-xl">
+                    New Publication: Contemporary Psychoanalysis Quarterly
+                  </CardTitle>
+                  <CardDescription>February 2025</CardDescription>
+                </div>
+              </div>
+            </CardHeader>
+            <CardContent>
+              <p className="text-foreground/80 mb-4">
+                Our latest journal issue features groundbreaking clinical case studies 
+                and innovative approaches to contemporary psychoanalytic practice.
+              </p>
                   <Button asChild variant="link" className="px-0">
                     <Link to="/publications">Read Now →</Link>
                   </Button>
@@ -152,11 +152,11 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="font-serif text-3xl md:text-4xl font-bold mb-6">
-              Join Our Academic Community
+              Join Our Psychoanalytic Community
             </h2>
             <p className="text-lg text-muted-foreground mb-8">
-              Connect with scholars, access exclusive resources, and contribute to advancing 
-              research in your field.
+              Connect with practitioners, access exclusive resources, and contribute to advancing 
+              psychoanalytic practice in Georgia.
             </p>
             <Button asChild size="lg">
               <Link to="/contact">Get in Touch</Link>

@@ -12,22 +12,22 @@ const About = () => {
               About Us
             </h1>
             <p className="text-lg text-muted-foreground">
-              Fostering academic excellence and scholarly collaboration since 1985
+              Fostering psychoanalytic excellence and professional collaboration since 1985
             </p>
           </div>
 
           <div className="prose prose-lg max-w-none mb-12">
             <p className="text-foreground/90 leading-relaxed mb-6">
-              The Academic Association serves as a vital hub for researchers, scholars, and analysts 
-              dedicated to advancing knowledge across diverse fields of study. Our organization brings 
-              together leading minds to share insights, collaborate on research initiatives, and contribute 
-              to the broader academic community.
+              The Georgian Society of Contemporary Psychoanalysis serves as a vital hub for psychoanalysts, 
+              psychotherapists, and mental health professionals dedicated to advancing psychoanalytic theory 
+              and practice. Our organization brings together leading practitioners to share insights, 
+              collaborate on clinical initiatives, and contribute to the broader psychoanalytic community in Georgia.
             </p>
             
             <p className="text-foreground/90 leading-relaxed mb-6">
-              Founded with a commitment to rigorous scholarship and intellectual exchange, we have grown 
-              into a respected institution that supports both established researchers and emerging scholars. 
-              Our programs span conferences, workshops, publications, and collaborative research projects.
+              Founded with a commitment to rigorous clinical practice and intellectual exchange, we have grown 
+              into a respected institution that supports both established psychoanalysts and emerging practitioners. 
+              Our programs span conferences, workshops, publications, and collaborative clinical research projects.
             </p>
           </div>
 
@@ -41,8 +41,8 @@ const About = () => {
                   <div>
                     <h3 className="font-serif text-xl font-semibold mb-2">Our Mission</h3>
                     <p className="text-foreground/80">
-                      To advance scholarly research and promote intellectual dialogue that addresses 
-                      contemporary challenges and contributes to societal progress.
+                      To advance psychoanalytic practice and promote clinical dialogue that addresses 
+                      contemporary mental health challenges and contributes to therapeutic progress.
                     </p>
                   </div>
                 </div>
@@ -58,8 +58,8 @@ const About = () => {
                   <div>
                     <h3 className="font-serif text-xl font-semibold mb-2">Our Community</h3>
                     <p className="text-foreground/80">
-                      A diverse network of over 500 affiliated researchers from institutions 
-                      worldwide, fostering interdisciplinary collaboration.
+                      A diverse network of psychoanalysts and mental health professionals from 
+                      across Georgia, fostering interdisciplinary clinical collaboration.
                     </p>
                   </div>
                 </div>
@@ -75,7 +75,7 @@ const About = () => {
                   <div>
                     <h3 className="font-serif text-xl font-semibold mb-2">Publications</h3>
                     <p className="text-foreground/80">
-                      Supporting the dissemination of research through our quarterly journal 
+                      Supporting the dissemination of psychoanalytic research through our quarterly journal 
                       and annual conference proceedings.
                     </p>
                   </div>
@@ -92,8 +92,8 @@ const About = () => {
                   <div>
                     <h3 className="font-serif text-xl font-semibold mb-2">Recognition</h3>
                     <p className="text-foreground/80">
-                      Annual awards program celebrating outstanding contributions to research 
-                      and scholarly excellence.
+                      Annual awards program celebrating outstanding contributions to psychoanalytic practice 
+                      and clinical excellence.
                     </p>
                   </div>
                 </div>
@@ -106,23 +106,23 @@ const About = () => {
             <div className="space-y-4 text-foreground/80">
               <p>
                 <strong className="text-foreground">1985:</strong> Founded by a group of distinguished 
-                scholars committed to interdisciplinary research collaboration.
+                psychoanalysts committed to advancing contemporary psychoanalytic practice in Georgia.
               </p>
               <p>
                 <strong className="text-foreground">1990:</strong> Launched our flagship annual symposium, 
-                which has become a premier gathering for researchers worldwide.
+                which has become a premier gathering for psychoanalysts across the region.
               </p>
               <p>
                 <strong className="text-foreground">2000:</strong> Established our peer-reviewed journal, 
-                providing a platform for cutting-edge research across disciplines.
+                providing a platform for cutting-edge psychoanalytic research and clinical case studies.
               </p>
               <p>
                 <strong className="text-foreground">2010:</strong> Expanded our digital presence and 
-                introduced virtual participation options for global accessibility.
+                introduced virtual participation options for international accessibility.
               </p>
               <p>
-                <strong className="text-foreground">2020:</strong> Celebrated 35 years of academic 
-                excellence with over 500 affiliated researchers and 1000+ published articles.
+                <strong className="text-foreground">2020:</strong> Celebrated 35 years of psychoanalytic 
+                excellence with a thriving community of practitioners and numerous published clinical contributions.
               </p>
             </div>
           </div>

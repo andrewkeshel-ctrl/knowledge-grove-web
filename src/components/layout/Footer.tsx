@@ -8,11 +8,11 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="font-serif text-xl font-bold mb-4">
-              Academic Association
+              Georgian Society of Contemporary Psychoanalysis
             </h3>
             <p className="text-sm text-primary-foreground/80">
-              Advancing scholarship and fostering intellectual dialogue among
-              researchers and analysts worldwide.
+              Advancing psychoanalytic practice and fostering dialogue among
+              mental health professionals and psychoanalysts in Georgia.
             </p>
           </div>
 
@@ -62,7 +62,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-8 pt-8 border-t border-primary-foreground/20 text-center text-sm text-primary-foreground/60">
-          <p>&copy; {new Date().getFullYear()} Academic Association. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Georgian Society of Contemporary Psychoanalysis. All rights reserved.</p>
         </div>
       </div>
     </footer>
